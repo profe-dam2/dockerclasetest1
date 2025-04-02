@@ -1,6 +1,6 @@
 {
   "name": "Python 3",
-  "dockerComposeFile": "docker-compose.yml",
+  "dockerComposeFile": "./.devcontainer/docker-compose.yml",
   "service": "devcontainer",
   "forwardPorts": [8080],
   "customizations": {
